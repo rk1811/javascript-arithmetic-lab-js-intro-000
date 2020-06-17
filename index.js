@@ -9,6 +9,11 @@ function multiply(a,b){
 }
 function divide(a,b){
   return a/b
+
+function increment(n){
+  return n++
+}
+
 }
 function makeInt(string){
   return parseInt(string, 10)
