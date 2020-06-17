@@ -15,7 +15,7 @@ function increment(n){
 }
 
 function decrement(n){
-  return n+2
+  return n-1
 }
 
 
